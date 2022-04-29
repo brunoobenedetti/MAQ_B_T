@@ -1,0 +1,11 @@
+/* header */
+.header{
+    background-color: rgb(26, 102, 102);
+}
+.icon{
+    width: 50px;
+    border-radius: 6px;
+}
+.conteiner{
+  background-color: black;
+}
